@@ -1,0 +1,225 @@
+body {
+    background-color: #000680;
+    background-image: url("https://www.transparenttextures.com/patterns/elegant-grid.png");
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.heading-p {
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 10px;
+}
+
+.name {
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 15px;
+
+}
+
+.p-2 {
+    color: white;
+    text-align: center;
+    margin-top: 0px;
+
+}
+
+
+
+.mynavbar {
+    margin-top: 20px;
+    border-radius: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+.div-btn {
+    text-align: center;
+}
+
+button.btn.btn-light.btn-lt:hover {
+    background-color: white;
+}
+
+
+button.btn.btn-light.btn-lt {
+    background-color: aqua;
+}
+
+.li-nav:hover {
+    background-color: aqua;
+    color: black;
+    border-radius: 30px;
+}
+
+a.nav-link {
+    color: blue;
+}
+
+a.navbar-brand {
+    color: blue;
+}
+
+.abtmediv {
+    color: white;
+    margin-top: 25px;
+    padding-top: 20px;
+    margin-bottom: 25px;
+}
+
+.mypicdiv {
+    text-align: center;
+}
+
+.mybiodiv {
+    text-align: center;
+    padding-top: 60px;
+}
+
+.mypic:hover {
+    transform: rotate(0deg);
+}
+
+.mypic {
+    transform: rotate(5deg);
+}
+
+.edu-h-div {
+    text-align: center;
+}
+
+.edu-h {
+    color: white;
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
+
+.edu-div {
+    margin: 25px;
+
+}
+
+.card:hover {
+    background-color: transparent;
+}
+
+.card {
+    background-color: #3A3A8C;
+    color: white;
+    border-width: 1px;
+    border-color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.btn-edu {
+    background-color: aqua;
+    color: black;
+}
+
+.btn-edu:hover {
+    background-color: white;
+    color: black;
+}
+
+.skill-h-div {
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+}
+
+.skill-full-container {
+    color: white;
+
+}
+
+.inner-skill-div {
+    text-align: center;
+    padding: 30px;
+    border-width: 1px;
+    border-color: white;
+}
+
+td {
+    text-align: center;
+}
+
+th {
+    text-decoration: underline;
+
+}
+
+table {
+    border: 1px solid white;
+}
+
+.contact-div {
+    color: white;
+    text-align: center;
+}
+.getintouch{
+    color:aqua;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.contact-h{
+    text-decoration: underline;
+    margin-bottom: 25px;
+}
+
+.message-container{
+    text-align: center;
+    
+}
+
+input{
+    background-color:#3A3A8C ;
+    border-radius: 40px;
+    padding: 30px;
+    color: white;
+}
+form > * {
+    margin-bottom: 30px; /* set the gap size as desired */
+  }
+  input::placeholder{
+    color
+  }
+  .submit-btn-form{
+    padding: 10px;
+    color:white;
+  }
+  textarea{
+    color:white;
+    background-color:#3A3A8C;
+    border-radius: 30px;
+    padding: 30px;
+    margin-bottom: 10px;
+}
+.footer-div{
+    background-color: white;
+    color: blue;
+    text-align: center;
+    padding-top: 10px;
+    height: 280px;
+}
+.others-heading{
+    text-decoration: underline;
+}
+.icons-div{
+    height: 100px;
+    margin-top: 70px;
+}
+.fa-brands{
+margin: 0 10px 0 10px;
+}
+.fa-brands:hover{
+    color:black;
+}
+.about-p{
+    margin-top: 30px;
+}
